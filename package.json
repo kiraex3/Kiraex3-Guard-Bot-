@@ -1,0 +1,16 @@
+{
+  "name": "kiraex3-guard-bot",
+  "version": "1.0.0",
+  "description": "A Discord security and guard bot made by Kiraex3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kiraex3",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.26.4"
+  }
+}
